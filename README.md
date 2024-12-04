@@ -1,8 +1,8 @@
-# Abhishek Kumar's Portfolio
+# Emmanuel Kipkirui's Portfolio
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/killer-abhi/Portfolio/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/killer-abhi/Portfolio.svg)](https://github.com/killer-abhi/Portfolio/issues)
-[![GitHub stars](https://img.shields.io/github/stars/killer-abhi/Portfolio.svg)](https://github.com/killer-abhi/Portfolio/stargazers)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/emmanuel/Portfolio/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/killer-abhi/Portfolio.svg)](https://github.com/emmanuel-kipkirui/Portfolio/issues)
+[![GitHub stars](https://img.shields.io/github/stars/killer-abhi/Portfolio.svg)](https://github.com/emmanuel-kipkirui/Portfolio/stargazers)
 
 Welcome to my professional portfolio! This repository showcases my skills, projects, and achievements. Feel free to explore the code and projects listed here.
 
@@ -24,8 +24,8 @@ Welcome to my professional portfolio! This repository showcases my skills, proje
 
 Connect with me! Feel free to reach out for collaboration, job opportunities, or just to say hello.
 
-- **Email:** abhi09148299@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/abhishek0914/](linkedin-link)
+- **Email:** eronoh036@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/emmanuel-kipkirui/](linkedin-link)
 - **Portfolio:** [https://killer-abhi.github.io/Portfolio/](your-portfolio-link)
 
 ## License
