@@ -1,52 +1,36 @@
-const DUMMY_PROJECTS=[
+const DUMMY_PROJECTS = [
     {
-        projectTitle:'PortFolio Template',
-        description: 'This project is a React app to generate a creative professional website based on Data provided. The website uses no backend and is free to fork and use.',
-        sourceLink:'https://github.com/killer-abhi/Portfolio.git',
-        lastUpdated:'Jan 20 2023'
+        projectTitle: 'Online Quiz and Exam System',
+        description: 'A web-based platform where teachers can create and manage quizzes and exams, and students can take tests, view results, and receive feedback. Built using HTML, CSS, JavaScript, and JSON Server for backend functionality.',
+        sourceLink: 'https://github.com/emmanuelronoh/Online-Quiz-and-Exam-System.git',
+        lastUpdated: 'Nov 20 2024'
     },
     {
-        projectTitle:'Expense Tracker',
-        description: 'A React project to get a track of weekly expenses. It also creates a graphical data to help monitor the expenses on daily basis',
-        sourceLink:'https://github.com/killer-abhi/expense-tracker.git',
-        lastUpdated:'Dec 30 2022'
+        projectTitle: 'Zenmax Online Shopping Platform',
+        description: 'An e-commerce web application offering a seamless shopping experience with product search, filtering, user authentication, and CRUD operations. Developed with React, Node.js, and MongoDB, deployed on Render.',
+        sourceLink: 'https://github.com/emmanuelronoh/Zen-max_ecommerce.git',
+        lastUpdated: 'Oct 15 2024'
     },
     {
-        projectTitle:'Realtime Chat Site',
-        description: 'It is a Realtime Chat Website built using Socket.io and Express with NodeJs as a backend and MongoDB as a database. It updates the chat messages in realtime with Typing notification of other users',
-        sourceLink:'https://github.com/killer-abhi/realtime-chat-site.git',
-        lastUpdated:'Dec 10 2022'
+        projectTitle: 'Note-Taking Web App',
+        description: 'A professional-looking note-taking application that allows users to create, edit, and manage notes efficiently. Features a clean UI with dark mode support. Built using React, Node.js, and MongoDB.',
+        sourceLink: 'https://github.com/emmanuelronoh/notes-taking-app-full-stack.git',
+        lastUpdated: 'Aug 10 2024'
     },
     {
-        projectTitle:'Food Order Website',
-        description: 'It is a React based website demonstrating how food order works with Cart updates and storing it in Firebase Database.',
-        sourceLink:'https://github.com/killer-abhi/food-order-react.git',
-        lastUpdated:'Jan 25 2023'
+        projectTitle: 'Moringa School Daily.dev',
+        description: 'A platform providing software engineering students with authentic content like videos, audio, and blogs created by the Moringa School community. It includes features such as user management, content creation, and personalized recommendations for enhanced learning and interaction.',
+        sourceLink: 'https://github.com/emmanuelronoh/Moringa-daily-dev-project.git',
+        lastUpdated: 'Jul 28 2024'
     },
     {
-        projectTitle:'Space Tourism Website',
-        description: 'It is a solution to challenge of FrontEnd Mentors. It is a React website to depict facts about our Solar System. ',
-        sourceLink:'https://github.com/killer-abhi/space-tour.git',
-        lastUpdated:'Oct 16 2022'
-    },
-    {
-        projectTitle:'Password Generator',
-        description: 'A website where you can generate strong Passwords to use as Authentication in different websites and apps based on the difficulty level set by you. ',
-        sourceLink:'https://github.com/killer-abhi/password-generator.git',
-        lastUpdated:'Sep 24 2022'
-    },
-    {
-        projectTitle:'QR Code Generator',
-        description: 'A simple website to generate QR Code of any text provided as Input.It fetches an API to provide you the required QR Code.',
-        sourceLink:'https://github.com/killer-abhi/qr-code-generator.git',
-        lastUpdated:'Oct 24 2022'
-    },
-    {
-        projectTitle:'Calculator',
-        description: 'A Calculator to do basic operations. It is a React app with three different themes.',
-        sourceLink:'https://github.com/killer-abhi/calculator.git',
-        lastUpdated:'Sep 26 2022'
-    },
+        projectTitle: 'Personal Finance Tracker',
+        description: 'A personal finance management application that helps users track income and expenses, set budgets, and analyze spending habits. The application includes user authentication, transaction management, budget tracking, and expense analysis to provide a complete solution for personal finance management.',
+        sourceLink: 'https://github.com/emmanuelronoh/personal-finance-tracker.git',
+        lastUpdated: 'Jul 28 2024'
+    }
+    
 ];
-const ProjectsData={DUMMY_PROJECTS};
+
+const ProjectsData = { DUMMY_PROJECTS };
 export default ProjectsData;

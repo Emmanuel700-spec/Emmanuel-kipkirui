@@ -1,16 +1,18 @@
-const githubLink="https://github.com/killer-abhi";
-const instaLink="https://instagram.com/killer._abhi";
-const linkedInLink="https://www.linkedin.com/in/abhishek-kumar-1a295217b/";
-const twitterLink="https://twitter.com/ABHIDK0914";
-const emailLink="mailto:dk9554654249@gmail.com";
+const githubLink = "https://github.com/emmanuelronoh";
+const instaLink = "https://instagram.com/eronoh036/";
+const linkedInLink = "https://www.linkedin.com/in/emmanuel-kipkirui-9a4b8831a";
+const twitterLink = "https://twitter.com/eronoh036";
+const emailLink = "mailto:eronoh036@gmail.com";
+const facebookLink = "https://www.facebook.com/emmanuel.kipkirui"; 
 
-const profileLinks={
+const profileLinks = {
     githubLink,
     instaLink,
     linkedInLink,
     twitterLink,
-    emailLink
-}
-const SocialData=profileLinks;
-export default SocialData;
+    emailLink,
+    facebookLink
+};
 
+const SocialData = profileLinks;
+export default SocialData;

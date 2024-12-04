@@ -1,35 +1,45 @@
 const languagesDone = [
     {
-        name: 'C++',
-        percentDone: 90
+        name: 'JavaScript',
+        percentDone: 85
     },
     {
         name: 'Python',
-        percentDone: 70
+        percentDone: 75
     },
     {
-        name: 'React Js',
+        name: 'HTML',
+        percentDone: 90
+    },
+    {
+        name: 'CSS',
         percentDone: 80
     },
     {
-        name: 'Node Js',
+        name: 'React',
         percentDone: 70
     },
     {
-        name: 'Dart',
-        percentDone:40
+        name: 'Django',
+        percentDone: 60
+    },
+    {
+        name: 'Flask',
+        percentDone: 65
     }
-]
-const EducationData={
-    collegeName:"Rajkiya Engineering College, Ambedkar Nagar",
-    courseName:"B.Tech in Information Technology",
-    couseStartYear:"2021",
-    courseEndYear:"Present",
-    details:[
-        'I joined my college in 2021. Cleared First and Second Year with a good academic performance.',
-        'I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, COA, AI etc.',
-        ' Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.'
+];
+
+const EducationData = {
+    collegeName: "Moringa School",
+    courseName: "Certificate in Software Development",
+    courseStartYear: "2024",
+    courseEndYear: "2024",
+    details: [
+        "I joined Moringa School in 2024, where I received a strong foundation in software engineering.",
+        "Studied and practiced key concepts in web development, backend frameworks, and full-stack engineering.",
+        "Completed projects involving JavaScript, React, Flask, and Django, along with database management and APIs."
     ],
-    codingStatus:languagesDone
-}
+    codingStatus: languagesDone
+};
+
 export default EducationData;
